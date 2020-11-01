@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<Authors>FengCode</Authors>
+		<Company>FengCode</Company>
+		<Description>ASP.NET Core 日志库</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/fengcode-git/FengCode.Asp.Logger</PackageProjectUrl>
+		<Version>3.1.1</Version>
+		<OutputType>Library</OutputType>
+		<AssemblyVersion>3.1.1.0</AssemblyVersion>
+		<FileVersion>3.1.1.0</FileVersion>
+		<IsPackable>true</IsPackable>
+	</PropertyGroup>
+
+</Project>
